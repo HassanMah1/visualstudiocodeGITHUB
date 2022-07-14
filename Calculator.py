@@ -27,7 +27,7 @@ elif op=="/":
 elif op=="*":
     multi(num1,num2)
 else:
-    print('invalid operator ssss')
+    print('invalid opeŉrator ssss')
 
 
 
