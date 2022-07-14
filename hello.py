@@ -1,2 +1,2 @@
-n = 'name'
-print n
+name = 'faheem'
+print (name)
