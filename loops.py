@@ -10,7 +10,7 @@ print("------------For Loop------------")
 for item in range(6):
     print(item)
 
-print("---------NESTED FOR LOOP--------")
+print("---------NESTED FOR LOOP---------")
 adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
